@@ -1,29 +1,41 @@
-name: sherifiskander
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.10783
 title: "Sherif Iskander's Blog"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4752067103981972
+  brandStrength: 0.04179041646420956
+  rhythmicContrast: 0.5355931555386633
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.04179041646420956
   lightness: 0.4459893212188035
-  saturation: 0.4752067103981972
-  rhythmicContrast: 0.5355931555386633
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: sherifiskander
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3043845
+layout_spectrum: 1
