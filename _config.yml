@@ -1,0 +1,28 @@
+name: sherifiskander
+favicon: null
+layout_spectrum: 0.09205199033021927
+typography_spectrum: 0.09424637327902019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.04179041646420956
+  lightness: 0.4459893212188035
+  saturation: 0.4752067103981972
+  rhythmicContrast: 0.5355931555386633
+purpose: []
