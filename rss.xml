@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sherif Iskander's Blog]]></title>
-        <description><![CDATA[Sherif Iskander's Blog]]></description>
+        <title><![CDATA[sherifiskander]]></title>
+        <description><![CDATA[sherifiskander]]></description>
         <link>https://thegrid.ai/sherifiskander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 10:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 10:17:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sherifiskander/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[عن الإنتخابات و دوخيني يا ليمونة]]></title>
-            <description><![CDATA[<article><h1>عن الإنتخابات و دوخيني يا ليمونة</h1><p>مش عارف ليه كل ما نواجه مشكلة نفكر في إعادة إختراع العجلة و كأن الإستفادة من تجارب الآخرين توصمنا بوصمة عار؟؟</p></article>]]></description>
-            <link>https://thegrid.ai/sherifiskander/586c3c80-bafa-48f4-bc72-3e16d3a4419f/index.html</link>
-            <guid isPermaLink="false">586c3c80-bafa-48f4-bc72-3e16d3a4419f</guid>
-            <pubDate>Wed, 10 Feb 2016 10:44:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[عبقرية التاريخ: هل ٦/٣٠ هو موعدنا مع العاصفة المثالية؟]]></title>
             <description><![CDATA[<article><h1>عبقرية التاريخ: هل ٦/٣٠ هو موعدنا مع العاصفة المثالية؟</h1><p>العاصفة المثالية هي ظاهرة طبيعية نادرة الحدوث. في هذه الظاهرة تجتمع مجموعة من العواصف و الأعاصير الشديدة لتجتمع قوتها في مسار واحد تدمر كل ما في طريقها. هذه العواصف تنشأ بعيدة عن بعضها و لكن تتحد في لحظة لتسلك مسار واحد.</p></article>]]></description>
             <link>https://thegrid.ai/sherifiskander/d1431e1e-8afc-4a35-bbbd-b35b557bd2ae/index.html</link>
             <guid isPermaLink="false">d1431e1e-8afc-4a35-bbbd-b35b557bd2ae</guid>
             <pubDate>Wed, 10 Feb 2016 10:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[عن الإنتخابات و دوخيني يا ليمونة]]></title>
+            <description><![CDATA[<article><h1>عن الإنتخابات و دوخيني يا ليمونة</h1><p>مش عارف ليه كل ما نواجه مشكلة نفكر في إعادة إختراع العجلة و كأن الإستفادة من تجارب الآخرين توصمنا بوصمة عار؟؟</p></article>]]></description>
+            <link>https://thegrid.ai/sherifiskander/586c3c80-bafa-48f4-bc72-3e16d3a4419f/index.html</link>
+            <guid isPermaLink="false">586c3c80-bafa-48f4-bc72-3e16d3a4419f</guid>
+            <pubDate>Wed, 10 Feb 2016 10:10:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
