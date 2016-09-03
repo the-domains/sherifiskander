@@ -1,8 +1,19 @@
+layout_spectrum: 0.032216787338256836
+typography_spectrum: 0.0017216939013451338
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.8218665774911642
+  lightness: 0.021545596420764923
+  saturation: 0.6898614519741386
+  rhythmicContrast: 0.9987908420152962
 name: sherifiskander
 favicon: null
-layout_spectrum: 0.94634
-typography_spectrum: 0.3043845
-title: "Sherif Iskander's Blog"
+title: Sherif Iskander's Blog
 collections:
   - index:
       path: /
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.04179041646420956
-  lightness: 0.4459893212188035
-  saturation: 0.4752067103981972
-  rhythmicContrast: 0.5355931555386633
 purpose: []
